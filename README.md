@@ -1,108 +1,101 @@
-<!-- ═══════════════════════════  TERMINAL HEADER  ═══════════════════════════ -->
+<div align="center">
 
-```text
- ● ● ●   yousef@github: ~ ────────────────────────────────────────────────────
-
- $ whoami && neofetch
-
-   ╭──────────────────────╮    yousef@github
-   │                      │    ─────────────────────────────────────
-   │                      │    OS ........ Linux
-   │   [ ASCII AVATAR ]   │    Role ...... Software Engineer
-   │                      │    Language .. Python
-   │   paste portrait     │    API ....... FastAPI · WebSockets
-   │   here (~22 x 10)    │    Graph DB .. Neo4j
-   │                      │    DevOps .... Docker · Git
-   │                      │    Projects .. AlgoArena · Semantic Digital Twin
-   │                      │
-   ╰──────────────────────╯    ███ ███ ███ ███ ███ ███ ███ ███
-
- $ cat stack.txt
-   python  fastapi  neo4j  docker  websockets  git  linux
-
- $ █
+```
+▓   ▓  ▓▓▓  ▓   ▓  ▓▓▓▓ ▓▓▓▓▓ ▓▓▓▓▓     ▓▓▓   ▓▓▓▓  ▓▓▓  ▓   ▓  ▓▓▓  
+ ▓ ▓  ▓   ▓ ▓   ▓ ▓     ▓     ▓        ▓   ▓ ▓     ▓   ▓ ▓▓ ▓▓ ▓   ▓ 
+  ▓   ▓   ▓ ▓   ▓  ▓▓▓  ▓▓▓▓  ▓▓▓▓     ▓   ▓  ▓▓▓  ▓▓▓▓▓ ▓ ▓ ▓ ▓▓▓▓▓ 
+  ▓   ▓   ▓ ▓   ▓     ▓ ▓     ▓        ▓   ▓     ▓ ▓   ▓ ▓   ▓ ▓   ▓ 
+  ▓    ▓▓▓   ▓▓▓  ▓▓▓▓  ▓▓▓▓▓ ▓         ▓▓▓  ▓▓▓▓  ▓   ▓ ▓   ▓ ▓   ▓
 ```
 
-<!-- ═════════════════════════════  TECH STACK  ═════════════════════════════ -->
+</div>
 
-### `> ls ~/stack`
+## 👋 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39d353" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=39d353" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353" alt="Docker" />
-  <img src="https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=39d353" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" />
+Hi, I'm **Yousef Osama**, a software engineer who builds solid backend systems, clean APIs, and AI-powered workflows.
+
+- 🎓 Senior Software Engineering Student at **Egypt University of Informatics (EUI)** (Cairo, Egypt).
+- ⚙️ Focused on **Backend Systems, API Design, and AI/LLM Orchestration**, from RESTful services to semantic data pipelines and LangGraph/LangChain workflows.
+- 🏦 Past Experience: **Frontend Developer Intern @ Attijariwafa Bank** (Digital Team) & **Summer Intern @ Commercial International Bank (CIB)** (Digital Banking & AI Applications).
+- 🔭 Currently building **AlgoArena**, a gamified competitive coding platform.
+
+## 💻 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
-<!-- ══════════════════════════  FEATURED PROJECTS  ══════════════════════════ -->
+**Frameworks & AI**
 
-### `> ls ~/projects --featured`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### ⚔️ [AlgoArena](https://github.com/YousefOsamaMahmoud/AlgoArena)
-
-```text
-$ ./algoarena --status
-[WIP] in active development
-```
-
-A gamified competitive coding platform featuring **AI-generated challenges** and **sandboxed code execution** *(In Active Development)*.
-
-- 🎮 Gamified competitive coding experience
-- 🧠 AI-generated coding challenges
-- 🛡️ Sandboxed code execution with **Judge0**
-
-<a href="https://github.com/YousefOsamaMahmoud/AlgoArena">
-  <img src="https://img.shields.io/badge/view_repo-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="AlgoArena repo" />
-</a>
-<img src="https://img.shields.io/badge/status-in_development-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353" alt="Status: in development" />
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🕸️ [Semantic Digital Twin](https://github.com/YousefOsamaMahmoud/semantic-digital-twin-backend)
-
-```text
-$ uvicorn twin.main:app --graph=neo4j
-```
-
-A **graph-based digital twin** backend built with **FastAPI** and **Neo4j**.
-
-- 🧩 Models supply-chain entities as a knowledge graph
-- 🔄 Pipelines that turn unstructured data into graph data
-- 📉 Predicts SLA risks across the supply chain
-
-<a href="https://github.com/YousefOsamaMahmoud/semantic-digital-twin-backend">
-  <img src="https://img.shields.io/badge/view_repo-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="Semantic Digital Twin repo" />
-</a>
-
-</td>
-  </tr>
-</table>
-
-<!-- ════════════════════════  CONTRIBUTION & ACTIVITY  ════════════════════════ -->
-
-### `> git log --graph --all`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefOsamaMahmoud&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353" alt="GitHub Stats" height="170" />
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
+
+**Databases & Semantic Web**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+**Tools & OS**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTEuMzc3djExLjM3Mkgwem0xMi42MjMgMEgyNHYxMS4zNzJIMTIuNjIzek0wIDEyLjYyM2gxMS4zNzdWMjRIMHptMTIuNjIzIDBIMjRWMjRIMTIuNjIzeiIvPjwvc3ZnPg%3D%3D" alt="Windows" />
+</p>
+
+## 🚀 Featured Work & In-Progress
+
+- **⚔️ [AlgoArena](https://github.com/YousefOsamaMahmoud/AlgoArena)** *(In Active Development)*: A gamified competitive coding platform featuring AI-generated challenges and sandboxed code execution.
+- **🧠 [Semantic Digital Twin Engine](https://github.com/YousefOsamaMahmoud/semantic-digital-twin-backend)**: Real-time supply chain risk detection engine built with Python, FastAPI, LangGraph, GraphDB/Neo4j, and Google Gemini NLP pipelines for SLA contract extraction.
+
+## 📈 Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YousefOsamaMahmoud/YousefOsamaMahmoud/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
-```text
-$ exit
-logout — thanks for stopping by.
-```
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/yousef-rabiee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:yousefrabie.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/YousefOsamaMahmoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+- **LinkedIn:** [linkedin.com/in/yousef-rabiee](https://www.linkedin.com/in/yousef-rabiee)
+- **Email:** [yousefrabie.work@gmail.com](mailto:yousefrabie.work@gmail.com)
+- **GitHub:** [YousefOsamaMahmoud](https://github.com/YousefOsamaMahmoud)
+
+---
+
+<p align="center">
+  I'm always open to new software engineering opportunities, backend/AI collaborations, and building impactful systems. Let's connect! 🚀
+</p>
