@@ -17,7 +17,7 @@ Hi, I'm **Yousef Osama**, a software engineer who builds solid backend systems, 
 - 🎓 Senior Software Engineering Student at **Egypt University of Informatics (EUI)** (Cairo, Egypt).
 - ⚙️ Focused on **Backend Systems, API Design, and AI/LLM Orchestration**, from RESTful services to semantic data pipelines and LangGraph/LangChain workflows.
 - 🏦 Past Experience: **Frontend Developer Intern @ Attijariwafa Bank** (Digital Team) & **Summer Intern @ Commercial International Bank (CIB)** (Digital Banking & AI Applications).
-- 🔭 Currently building **AlgoArena**, a gamified competitive coding platform.
+- 🔭 Currently building **[AlgoArena](https://github.com/YousefOsamaMahmoud/AlgoArena)**, a gamified competitive coding platform with multi-stage validated AI challenges, Glicko-2 ranked 1v1 matchmaking, and Judge0 sandboxed execution.
 
 ## 💻 Tech Stack
 
@@ -25,31 +25,37 @@ Hi, I'm **Yousef Osama**, a software engineer who builds solid backend systems, 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
-**Frameworks & AI**
+**Frameworks, Real-Time & AI**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-**Databases & Semantic Web**
+**Databases, Caching & Semantic Web**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -69,7 +75,7 @@ Hi, I'm **Yousef Osama**, a software engineer who builds solid backend systems, 
 
 ## 🚀 Featured Work & In-Progress
 
-- **⚔️ [AlgoArena](https://github.com/YousefOsamaMahmoud/AlgoArena)** *(In Active Development)*: A gamified competitive coding platform featuring AI-generated challenges and sandboxed code execution.
+- **⚔️ [AlgoArena](https://github.com/YousefOsamaMahmoud/AlgoArena)** *(Phase 1 — In Active Development)*: A gamified competitive coding platform built with TypeScript, Next.js, NestJS, Socket.io, PostgreSQL, and Redis—featuring a 10-stage AI challenge validation pipeline, Glicko-2 ranked 1v1 matchmaking, Judge0 sandboxed execution, and tiered AI mentorship.
 - **🧠 [Semantic Digital Twin Engine](https://github.com/YousefOsamaMahmoud/semantic-digital-twin-backend)**: Real-time supply chain risk detection engine built with Python, FastAPI, LangGraph, GraphDB/Neo4j, and Google Gemini NLP pipelines for SLA contract extraction.
 
 ## 📈 Contribution Graph
